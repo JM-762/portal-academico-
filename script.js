@@ -3,7 +3,7 @@ function consultarDisciplinas() {
  mensagem.innerHTML =
  "DevOps<br>" +
  "Engenharia de Software<br>" +
- "Banco de Dados" +
+ "Banco de Dados<br>" +
  "Computação em Nuvem";
  }
 
